@@ -1,0 +1,14 @@
+.listuser {
+  width: 50%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.user {
+  background-color: rgb(181, 181, 213);
+  border: 1px solid darkblue;
+  border-radius: 20px;
+  padding: 10px 30px;
+}
